@@ -1,5 +1,5 @@
 ---
-title: "\[Group Project\] Arithmetic Functions (in Polish)"
+title: "[Group Project] Arithmetic Functions (in Polish)"
 collection: publications
 permalink: /publication/gp_arith_fun
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
