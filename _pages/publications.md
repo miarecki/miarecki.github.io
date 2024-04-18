@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications"
+title: "Thesis & Papers"
 permalink: /publications/
 author_profile: true
 ---
