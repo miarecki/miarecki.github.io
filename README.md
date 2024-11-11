@@ -14,6 +14,8 @@
 
 TBU
 
+---
+
 ### Thesis
 
 - **Bachelor's Thesis: "Elliptic Curves"**  
