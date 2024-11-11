@@ -1,5 +1,12 @@
 title: Jędrzej Miarecki
-logo : /assets/img/logo.png
-description: Mathematician
+logo: /assets/img/logo.png
+description: >
+  Mathematician  
+  Bachelor of Mathematics (University of Wrocław)  
+  Student of Mathematics (Master's) at University of Opole  
+  
+  My mathematical interests are in number theory and cryptography.  
+  
+  LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/jmiarecki/)
 show_downloads: false
 theme: jekyll-theme-minimal
