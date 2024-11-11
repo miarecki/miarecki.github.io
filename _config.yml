@@ -7,6 +7,6 @@ description: >
   
   My mathematical interests are in number theory and cryptography.  
   
-  LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/jmiarecki/)
+  LinkedIn: <a href="https://www.linkedin.com/in/jmiarecki/" target="_blank">LinkedIn Profile</a>
 show_downloads: false
 theme: jekyll-theme-minimal
