@@ -31,6 +31,6 @@ TBU
 ## Group Projects
 
 1. J. Giziński, K. Kraszewski, J. Miarecki, W. Pilak *Arithmetic Functions*  
-   - Collaborative paper that explores key arithmetic functions, chapter dedicated to the divisor-counting function $\tau$.
+   - Collaborative paper that explores key arithmetic functions, chapter dedicated to the divisor-counting function.
      
 
