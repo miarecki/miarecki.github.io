@@ -44,7 +44,7 @@ This paper is based on a chapter from my bachelor's thesis originally written in
 
 - *Quadratic Congruences Modulo a Prime, Modulo 2^n, and Higher-Degree Congruences*, University of Opole, June 2025 (for Mathematics Student Association)
 
-  - *Abstract*: This seminar offers an introduction to quadratic congruences, starting with classical results modulo a prime and extending to more subtle cases modulo powers of 2. We'll also explore cubic congruences modulo 2^n and discuss techniques and results that help generalize to higher-degree congruences.
+  - _Abstract_: This seminar offers an introduction to quadratic congruences, starting with classical results modulo a prime and extending to more subtle cases modulo powers of 2. We'll also explore cubic congruences modulo 2^n and discuss techniques and results that help generalize to higher-degree congruences.
 ---
 
 ## Group Projects
