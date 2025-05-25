@@ -9,3 +9,4 @@ description: >
   <a href="https://www.linkedin.com/in/jmiarecki/" target="_blank">LinkedIn</a>
 show_downloads: false
 theme: jekyll-theme-minimal
+mathjax: true
