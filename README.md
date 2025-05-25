@@ -1,3 +1,9 @@
+---
+title: "Jędrzej Miarecki | Homepage"
+layout: default
+---
+
+
 ## Education
 
 - **Master's Degree in Mathematics**  
