@@ -1,7 +1,3 @@
----
-layout: default
----
-
 ## Education
 
 - **Master's Degree in Mathematics**  
