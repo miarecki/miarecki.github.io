@@ -54,3 +54,18 @@ This paper is based on a chapter from my bachelor's thesis originally written in
    - Collaborative paper that explores key arithmetic functions, chapter dedicated to the divisor-counting function.
      
 
+<!-- MathJax Configuration and Script -->
+<script>
+  MathJax = {
+    tex: {
+      inlineMath: [['$', '$'], ['\\(', '\\)']],
+      displayMath: [['$$', '$$'], ['\\[', '\\]']]
+    },
+    svg: {
+      fontCache: 'global'
+    }
+  };
+</script>
+<script type="text/javascript" id="MathJax-script" async
+  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-svg.js">
+</script>
