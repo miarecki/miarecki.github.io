@@ -30,7 +30,7 @@ This paper is based on a chapter from my bachelor's thesis originally written in
 
 ### Thesis
 
-- **Bachelor's Thesis: "Elliptic Curves"**  
+- **Bachelor's Thesis:** *Elliptic Curves* 
   University of Wrocław, 2024  
   - *Abstract*: The aim of this thesis is to present selected topics related to elliptic curves in an elementary manner. The thesis includes certain results on the $j$-invariants of Edwards elliptic curves: in particular, the computation of the sum of $j$-invariants and the sum of distinct $j$-invariants of these curves over a finite field $\mathbb{F}_p$  depending on $p$ modulo $8$. These theorems are new results. Additionally, in an elementary way, a formula will be derived for the number of distinct $j$-invariants of Edwards elliptic curves over a finite field $\mathbb{F}_p$ depending on $p$ modulo $24$.
 
@@ -42,7 +42,7 @@ This paper is based on a chapter from my bachelor's thesis originally written in
 
 ### Seminars
 
-- **Quadratic Congruences Modulo a Prime, Modulo 2^n, and Higher-Degree Congruences**
+- *Quadratic Congruences Modulo a Prime, Modulo 2^n, and Higher-Degree Congruences*
   University of Opole, June 2025 (for Mathematics Student Association)
   - *Abstract*: This seminar offers an introduction to quadratic congruences, starting with classical results modulo a prime and extending to more subtle cases modulo powers of 2. We'll also explore cubic congruences modulo 2^n and discuss techniques and results that help generalize to higher-degree congruences.
 ---
