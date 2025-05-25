@@ -1,5 +1,5 @@
 ---
-title: "Jędrzej Miarecki | Homepage"
+title: "Homepage"
 ---
 ## Education
 
