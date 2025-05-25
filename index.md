@@ -1,3 +1,6 @@
+---
+title: "Jędrzej Miarecki's Homepage"
+---
 ## Education
 
 - **Master's Degree in Mathematics**  
@@ -23,6 +26,7 @@ $$
 -468 \mod p & \text{if } p \equiv 7 \pmod{8}.
 \end{cases}
 $$
+
 This paper is based on a chapter from my bachelor's thesis originally written in Polish.
 
 **This paper was awarded a [distinction](https://www.ptm.org.pl/kategorie/konkursy/konkursy-studenckie/konkurs-prac-studenckich-z-matematyki-im-jozefa-marcinkiewicz) in the PTM Józef Marcinkiewicz competition for the best student paper in mathematics in 2024.**
