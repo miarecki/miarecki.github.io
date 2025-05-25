@@ -1,5 +1,5 @@
 ---
-title: "Jędrzej Miarecki's Homepage"
+title: "Jędrzej Miarecki | Homepage"
 ---
 ## Education
 
@@ -18,6 +18,7 @@ title: "Jędrzej Miarecki's Homepage"
 - J. Miarecki *Sum of distinct j-Invariants of Edwards Elliptic Curves over Finite Fields*, 2024 [[pdf]](https://github.com/miarecki/miarecki.github.io/blob/main/papers/Sum_of_distinct_j_Invariants_of_Edwards_Elliptic_Curves_over_Finite_Fields.pdf)
 
   - *Abstract*: Let $p \ge 5$ be prime and $\mathbb{F}_p$ be a finite field. We denote by $\mathcal{J}_p$ a set of all possible distinct $j$-invariants of Edwards elliptic curve over a field $\mathbb{F}_p$. In this paper we will show that
+
 $$
 \sum_{j \in \mathcal{J}_p} j =
 \begin{cases}
