@@ -19,14 +19,14 @@ layout: default
 - J. Miarecki *Sum of distinct j-Invariants of Edwards Elliptic Curves over Finite Fields*, 2024 [[pdf]](https://github.com/miarecki/miarecki.github.io/blob/main/papers/Sum_of_distinct_j_Invariants_of_Edwards_Elliptic_Curves_over_Finite_Fields.pdf)
   - *Abstract*: Let $p \ge 5$ be prime and $\mathbb{F}_p$ be a finite field. We denote by $\mathcal{J}_p$ a set of all possible distinct $j$-invariants of Edwards elliptic curve over a field $\mathbb{F}_p$. In this paper we will show that
 
-\[
+$$
 \sum_{j \in \mathcal{J}_p} j =
 \begin{cases}
 396 \mod p & \text{if } p \equiv 3 \pmod{8}, \\
 424 \mod p & \text{if } p \equiv 1,5 \pmod{8}, \\
 -468 \mod p & \text{if } p \equiv 7 \pmod{8}.
 \end{cases}
-\]
+$$
 
 This paper is based on a chapter from my bachelor's thesis originally written in Polish.
 
