@@ -23,7 +23,7 @@
     -468 \mod p & \text{if } p \equiv 7 \pmod{8}.
 \end{cases}
 ```
-This paper is based on a chapter from my bachelor's thesis \cite{Miarecki2024}, originally written in Polish.
+This paper is based on a chapter from my bachelor's thesis originally written in Polish.
 **This paper was awarded a distinction in the PTM Józef Marcinkiewicz competition for the best student paper in mathematics in 2024.**
 
 ---
