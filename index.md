@@ -46,20 +46,13 @@ This paper is based on a chapter from my bachelor's thesis originally written in
   
 ---
 
-### Seminars
+## Seminars
 
 - *Quadratic Congruences Modulo a Prime, Modulo $2^n$, and Higher-Degree Congruences*, University of Opole, June 2025 (for Mathematics Student Association)
 
   - <em>Abstract</em>: This seminar offers an introduction to quadratic congruences, starting with classical results modulo a prime and extending to more subtle cases modulo powers of 2. We'll also explore cubic congruences modulo $2^n$ and discuss techniques and results that help generalize to higher-degree congruences.
 
 ---
-
-
-## Group Projects
-
-1. J. Giziński, K. Kraszewski, J. Miarecki, W. Pilak *Arithmetic Functions*  
-   - Collaborative paper that explores key arithmetic functions, chapter dedicated to the divisor-counting function.
-     
 
 <!-- MathJax Configuration and Script -->
 <script>
