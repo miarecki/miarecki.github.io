@@ -40,9 +40,9 @@ This paper is based on a chapter from my bachelor's thesis originally written in
 
   - *Abstract*: The aim of this thesis is to present selected topics related to elliptic curves in an elementary manner. The thesis includes certain results on the $j$-invariants of Edwards elliptic curves: in particular, the computation of the sum of $j$-invariants and the sum of distinct $j$-invariants of these curves over a finite field $\mathbb{F}_p$  depending on $p$ modulo $8$. These theorems are new results. Additionally, in an elementary way, a formula will be derived for the number of distinct $j$-invariants of Edwards elliptic curves over a finite field $\mathbb{F}_p$ depending on $p$ modulo $24$.
 
-- **Master's Thesis:** *TBD*, University of Opole, 2026
+- **Master's Thesis:** (Working title) *Post-Quantum Elliptic-Curve Cryptography*, University of Opole, 2026
 
-  - *Abstract*: TBD
+  - *Abstract*: Post-Quantum Elliptic-Curve Cryptography... (TBU)
   
 ---
 
