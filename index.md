@@ -43,7 +43,13 @@ This paper is based on a chapter from my bachelor's thesis originally written in
 - **Master's Thesis:** (Working title) *Post-Quantum Elliptic-Curve Cryptography*, University of Opole, 2026
 
   - *Abstract*: Post-Quantum Elliptic-Curve Cryptography... (TBU)
-  
+
+---
+
+### Attended Conferences
+
+- **[Baby Steps Beyond the Horizon](https://sites.google.com/impan.pl/25babysteps)**, Będlewo, 2025
+
 ---
 
 <!-- MathJax Configuration and Script -->
