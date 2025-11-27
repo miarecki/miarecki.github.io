@@ -11,6 +11,16 @@ title: "Homepage"
 
 ---
 
+### Thesis
+
+- **Bachelor's Thesis:** *Elliptic Curves*, University of Wrocław, 2024
+
+- **Master's Thesis:** (Working title) *Braid groups*, University of Opole, 2026
+
+- *Abstract*: TBD
+
+---
+
 ## Publications
 
 - J. Miarecki *Sum of distinct j-Invariants of Edwards Elliptic Curves over Finite Fields*, 2024 [[pdf]](https://github.com/miarecki/miarecki.github.io/blob/main/papers/Sum_of_distinct_j_Invariants_of_Edwards_Elliptic_Curves_over_Finite_Fields.pdf)
