@@ -13,8 +13,6 @@ title: "Homepage"
 
 ## Publications
 
-### Articles
-
 - J. Miarecki *Sum of distinct j-Invariants of Edwards Elliptic Curves over Finite Fields*, 2024 [[pdf]](https://github.com/miarecki/miarecki.github.io/blob/main/papers/Sum_of_distinct_j_Invariants_of_Edwards_Elliptic_Curves_over_Finite_Fields.pdf)
 
   - *Abstract*: Let $p \ge 5$ be prime and $\mathbb{F}_p$ be a finite field. We denote by $\mathcal{J}_p$ a set of all possible distinct $j$-invariants of Edwards elliptic curve over a field $\mathbb{F}_p$. In this paper we will show that
@@ -34,17 +32,13 @@ This paper is based on a chapter from my bachelor's thesis originally written in
 
 ---
 
-### Thesis
+## Seminars
 
-- **Bachelor's Thesis:** *Elliptic Curves*, University of Wrocław, 2024
-
-  - *Abstract*: The aim of this thesis is to present selected topics related to elliptic curves in an elementary manner. The thesis includes certain results on the $j$-invariants of Edwards elliptic curves: in particular, the computation of the sum of $j$-invariants and the sum of distinct $j$-invariants of these curves over a finite field $\mathbb{F}_p$  depending on $p$ modulo $8$. These theorems are new results. Additionally, in an elementary way, a formula will be derived for the number of distinct $j$-invariants of Edwards elliptic curves over a finite field $\mathbb{F}_p$ depending on $p$ modulo $24$.
-
-- **Master's Thesis:** (Working title) *Post-Quantum Elliptic-Curve Cryptography*, University of Opole, 2026
-
-  - *Abstract*: Post-Quantum Elliptic-Curve Cryptography... (TBU)
+- December 2025, *Number of solutions to polynomial congruences modulo $2^n$*, Mathematics Student Association, University of Opole.
 
 ---
+
+
 
 ### Attended Conferences
 
