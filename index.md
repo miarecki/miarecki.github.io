@@ -34,7 +34,7 @@ This paper is based on a chapter from my bachelor's thesis originally written in
 
 ## Seminars
 
-- December 2025, *Number of solutions to polynomial congruences modulo $2^n$*, Mathematics Student Association, University of Opole.
+- December 2025, *Number of solutions to polynomial congruences modulo* $\mathit{2^n}$, Mathematics Student Association, University of Opole.
 
 ---
 
