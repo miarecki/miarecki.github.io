@@ -5,19 +5,12 @@ title: "Homepage"
 
 - **Master's Degree in Mathematics**  
   University of Opole, Faculty of Mathematics, Physics and Computer Science (Currently pursuing)
+  - **Master's Thesis:** (Working title) *Braid groups*, University of Opole, 2026
+  - *Abstract*: TBD
 
 - **Bachelor's Degree in Mathematics**  
-  University of Wrocław, Faculty of Mathematics and Computer Science (Graduated in 2024)  
-
----
-
-### Thesis
-
-- **Bachelor's Thesis:** *Elliptic Curves*, University of Wrocław, 2024
-
-- **Master's Thesis:** (Working title) *Braid groups*, University of Opole, 2026
-
-- *Abstract*: TBD
+  University of Wrocław, Faculty of Mathematics and Computer Science (Graduated in 2024)
+  - **Bachelor's Thesis:** *Elliptic Curves*, University of Wrocław, 2024
 
 ---
 
